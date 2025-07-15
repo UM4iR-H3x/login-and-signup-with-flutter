@@ -25,7 +25,7 @@ This repository contains Flutter widgets implementing user-friendly and visually
 
 | Login Screen                             | Signup Screen                            |
 |----------------------------------------|----------------------------------------|
-| ![Login Screen](screenshots/login.png) | ![Signup Screen](screenshots/signup.png) |
+| ![Login Screen](screenshots/login.png) | ![Signup Screen](screenshots/sighup.png) |
 
 ---
 
