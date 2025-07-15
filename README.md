@@ -1,45 +1,16 @@
-# Flutter Authentication UI — Signup & Login Screens
+# signup
 
-A clean, modern, and fully responsive Flutter frontend showcasing **Signup** and **Login** screens with elegant UI design. This project serves as a standalone authentication interface ready to be integrated into any Flutter application.
-
----
-
-## Overview
-
-This repository contains Flutter widgets implementing user-friendly and visually appealing signup and login pages. The UI leverages Flutter's powerful widget system and customization capabilities to deliver a smooth user experience across various device sizes.
-
----
-
-## Features
-
-- ✨ **Intuitive and polished UI** for user authentication  
-- 📐 **Responsive design** supporting different screen dimensions  
-- 🎨 Background images with adaptive `BoxFit.cover` and transparent overlays  
-- 🔐 Secure password input with obscured text fields  
-- 🖱️ Interactive buttons and icons following Material Design principles  
-- ⚙️ Easily customizable to fit specific project needs  
-
----
-
-## Screenshots
-
-| Login Screen                             | Signup Screen                            |
-|----------------------------------------|----------------------------------------|
-| ![Login Screen](screenshots/login.png) | ![Signup Screen](screenshots/signup.png) |
-
----
+A new Flutter project.
 
 ## Getting Started
 
-Follow the instructions below to run the project locally:
+This project is a starting point for a Flutter application.
 
-### Prerequisites
+A few resources to get you started if this is your first Flutter project:
 
-- Flutter SDK (version 3.6.0 or higher) installed on your machine  
-- A compatible IDE (e.g., VS Code, Android Studio) or terminal with Flutter configured  
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/UM4iR-H3x/login-and-signup-with-flutter.git
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
